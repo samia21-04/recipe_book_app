@@ -15,7 +15,7 @@ final List<Recipe> sampleRecipes = [
   ),
   Recipe(
     name: 'Vegetable Stir Fry',
-    imagePath: 'assets/images/stirfry.jpg',
+    imagePath: 'assets/images/veggie_stirfry.jpg',
     ingredients: ['Mixed Vegetables', 'Soy Sauce', 'Garlic', 'Ginger', 'Sesame Oil'],
     instructions: 'Heat oil. Add garlic and ginger. Stir fry vegetables. Add soy sauce and cook until tender.',
   ),
